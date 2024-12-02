@@ -1,3 +1,8 @@
+# Student Name: Hasti Rathod
+# Subject: CSCE 3550
+# Student ID: 11448416
+# EUID- hhr0013
+# Project3: Bulking up our JWKS Server
 import unittest
 import requests
 import os
