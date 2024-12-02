@@ -26,7 +26,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Hasti0013/JWKS-Bulking-up-Project3
+git clone https://github.com/Hasti0013/JWKS-Bulking-up-Project-3
 Navigate to the Project Directory:
 
 bash
