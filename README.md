@@ -1,3 +1,8 @@
+# Student Name: Hasti Rathod
+# Subject: CSCE 3550
+# Student ID: 11448416
+# EUID- hhr0013
+# Project3: Bulking up our JWKS Server
 JWT and JWKS Server
 This Node.js application serves as a JSON Web Token (JWT) and JSON Web Key Set (JWKS) server. It provides public keys with unique key identifiers (kid) for verifying JWTs, supports key expiration for enhanced security, and includes an authentication endpoint to issue JWTs.
 
